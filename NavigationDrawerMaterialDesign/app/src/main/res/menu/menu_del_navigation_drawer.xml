@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <!-- agrupem les opcions en dos blocs-->
+        <item
+            android:id="@+id/seccio1"
+            android:title="Secció 1" >
+
+            <item
+                android:id="@+id/inici1"
+                android:checked="true"
+                android:icon="@mipmap/ic_home_black_24dp"
+                android:title="@string/inici" />
+            <item
+                android:id="@+id/events1"
+                android:checked="true"
+                android:icon="@mipmap/ic_event_black_24dp"
+                android:title="@string/events" />
+            <item
+                android:id="@+id/mail1"
+                android:checked="true"
+                android:icon="@mipmap/ic_mail_black_24dp"
+                android:title="@string/mail" />
+            <item
+                android:id="@+id/botiga1"
+                android:checked="true"
+                android:icon="@mipmap/ic_shopping_cart_black_24dp"
+                android:title="@string/botiga" />
+            <item
+                android:id="@+id/escola1"
+                android:checked="true"
+                android:icon="@mipmap/ic_school_black_24dp"
+                android:title="@string/escola" />
+        </item>
+        <item
+            android:id="@+id/seccio2"
+            android:title="Secció 2">
+        <item
+            android:id="@+id/inici2"
+            android:checked="true"
+            android:icon="@mipmap/ic_home_black_24dp"
+            android:title="@string/inici" />
+        <item
+            android:id="@+id/events2"
+            android:checked="true"
+            android:icon="@mipmap/ic_event_black_24dp"
+            android:title="@string/events" />
+        <item
+            android:id="@+id/mail2"
+            android:checked="true"
+            android:icon="@mipmap/ic_mail_black_24dp"
+            android:title="@string/mail" />
+        <item
+            android:id="@+id/botiga2"
+            android:checked="true"
+            android:icon="@mipmap/ic_shopping_cart_black_24dp"
+            android:title="@string/botiga" />
+        <item
+            android:id="@+id/escola2"
+            android:checked="true"
+            android:icon="@mipmap/ic_school_black_24dp"
+            android:title="@string/escola" />
+            />
+        </item>
+    </group>
+
+
+</menu>

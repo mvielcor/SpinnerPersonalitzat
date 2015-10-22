@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NavigationDrawler</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Configuració</string>
+    <string name="openDrawer">Obrir Drawer</string>
+    <string name="closeDrawer">Tancar Drawer</string>
+</resources>

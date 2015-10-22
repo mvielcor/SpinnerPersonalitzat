@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Tema Base de l'aplicació. -->
+    <style name="Base.AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Personalitzem els nostres colors-->
+        <item name="colorPrimary">@color/ColorPrincipal</item>
+        <item name="colorPrimaryDark">@color/ColorPrincipalFosc</item>
+        <item name="colorAccent">@color/accentColor</item>
+
+        <item name="android:windowBackground">@color/window_background</item>
+    </style>
+</resources>

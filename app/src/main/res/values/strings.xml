@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Llistes</string>
+    <string name="title_activity_inici">Inici</string>
+    <string name="menu_settings">Settings</string>
+    <string name="titol">Jugant amb llistes!</string>
+
+</resources>
